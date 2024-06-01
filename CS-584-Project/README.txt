@@ -1,4 +1,4 @@
-Team Members: Humesh Reddi Venkatapuram and Pratyay Kumar
+Team Members: Humesh Reddy Venkatapuram and Pratyay Kumar
 
 This project is written entirely in swift.
 
@@ -15,6 +15,6 @@ Setup:
 
 4. Paste your API key in ChatGPT/ChatGPT/ContentView.swift in line number 20.
 
-5. Goto Product -> Destination -> and select your emulator type. (We developed it on Iphoe 14).
+5. Goto Product -> Destination -> and select your emulator type. (We developed it on Iphone 14).
 
 5. You should be able to run the chat application on the emulator.
